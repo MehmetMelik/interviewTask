@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video>
+	<title>Fruit Wars</title>
+	<type>FRUIT_MATCH</type>
+	<path>rtmp://cp1234.performgroup.com/video/fruit_wars.flv</path>
+	<keywordSet>
+		<keyword>Fruits</keyword>
+		<keyword>War</keyword>
+	</keywordSet>
+	<categorySet>
+		<category>Documentary</category>
+	</categorySet>
+</video>
